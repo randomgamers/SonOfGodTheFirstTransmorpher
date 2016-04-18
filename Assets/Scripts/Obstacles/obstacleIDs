@@ -1,0 +1,5 @@
+no = 0
+stone = 1
+mine = 2
+tree = 3
+cloud = 4
