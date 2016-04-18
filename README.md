@@ -16,4 +16,4 @@ Graphics
 
 - Martin Tesař
 
-![Menu Background](https://github.com/randomgamers/SonofGodTheFirstTransmorpher/blob/master/Assets/Sprites/menuBackground.png)
+![Menu Screen](http://ludumdare.com/compo/wp-content/compo2/542293/63882-shot0-1461008107.png)
