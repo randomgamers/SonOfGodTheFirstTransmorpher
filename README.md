@@ -8,8 +8,8 @@ Developers:
 
 - Petr Bělohlávek
 - Tomáš Hromada
-- Martin Tesař
 - Štěpán Procházka
+- Martin Tesař
 
 Graphics
 --------
